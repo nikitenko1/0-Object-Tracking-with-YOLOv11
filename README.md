@@ -1,4 +1,2 @@
 ﻿### 0-Object-Tracking-with-YOLOv11
-
-
-![test_auto](https://github.com/user-attachments/assets/006e0335-ed95-43c3-ab28-00137b141546)
+![Your_test_auto](https://github.com/user-attachments/assets/2feba1c8-1931-4145-a3a5-dfb0abe24b82)
